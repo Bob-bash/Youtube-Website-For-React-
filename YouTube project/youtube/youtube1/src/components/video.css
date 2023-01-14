@@ -1,0 +1,41 @@
+.player{
+    padding-top: 20px;
+}
+.player__nums{
+    width: 93%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.right{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.player__t{
+    font-weight: 500;
+    font-size: 17px;
+}
+.common{
+    font-size: 13px;
+}
+.player__texts{
+    margin: 25px 0;
+}
+
+.h2{
+    color: transparent;
+    background: linear-gradient(45deg,blue,red);
+    width: max-content;
+    background-clip: text;
+    margin-bottom: 20px;
+}
+.videodet{
+    width:69vw;
+}

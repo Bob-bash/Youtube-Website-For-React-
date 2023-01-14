@@ -1,0 +1,33 @@
+.header{
+    width: 100vw;
+    padding: 15px 5% 15px 2%;
+    display: flex;
+    height: 9vh;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 35px;
+    color: red;
+    font-weight: bold;
+}
+.searchw{
+    position: relative;
+}
+.searchicon{
+    font-size: 20px;
+    color: red;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    margin: auto 0px;
+    right: 5%;
+}
+.searchin{
+    background-color: white;
+    border-radius: 100px;
+    width: 250px;
+    padding: 7px 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
